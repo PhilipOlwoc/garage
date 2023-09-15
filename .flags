@@ -1,1 +1,10 @@
-{}
+{
+  "garage": 1056,
+  "garage_x": 32,
+  "garage_y": 33,
+  "battery": 12,
+  "code": 2134,
+  "keycode": 1,
+  "junked": 1,
+  "groombad": true
+}

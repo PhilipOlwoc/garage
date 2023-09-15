@@ -59,7 +59,7 @@ def main():
     # Check if room still contains junk, tell
     # that branch of the story
     if glob("*.junk"):
-        n.path.change(2)
+        n.path.change({"act": 2, "scene": 0})
         n.narrate()
   
     # Ask if user wants to turn the Groomba on
